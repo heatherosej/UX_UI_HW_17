@@ -1,0 +1,47 @@
+body {
+  font-family: work-sans, sans-serif;
+}
+.font-face {
+  font-family: "Necto-Mono";
+  src: url("Necto-Mono.woff2") format("woff2"),
+       url("Necto-Mono.woff") format("woff");
+}
+.topnav {
+  overflow: hidden;
+}
+nav {font-weight: 400;
+  font-style: normal;
+  font-size: 20;}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 8px;
+  text-decoration: none;
+}
+.topnav-right {
+  float: right;
+
+.CTA-Buttons {
+    font-family: grange, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size; 20;
+  }
+#cta{font-family, serif;}
+
+.button1{
+  background-color:#BEE1D6; 
+}
+.button2{
+  background-color: #FCB140;
+}
+.footer {
+  background-color: #FCB140;
+}
+.left-footer {float: left;
+}
+.rightfooter {
+  float: right;
+}
